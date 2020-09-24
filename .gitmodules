@@ -1,0 +1,4 @@
+[submodule "django"]
+	path = django
+	url = git@github.com:kkrup/django.git
+	branch = master
