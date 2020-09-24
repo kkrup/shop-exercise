@@ -2,3 +2,7 @@
 	path = django
 	url = git@github.com:kkrup/django.git
 	branch = master
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:kkrup/frontend.git
+	branch = master
